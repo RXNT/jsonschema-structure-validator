@@ -1,6 +1,6 @@
 {
   "name": "jsonschema-structure-validator",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Simple jsonschema structure validator",
   "private": false,
   "author": "mavarazy@gmail.com",
@@ -41,8 +41,7 @@
     "npm": "^2.14.7",
     "node": ">=6"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "atob": "^2.0.3",
     "babel-cli": "^6.24.1",
